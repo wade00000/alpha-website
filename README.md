@@ -8,30 +8,24 @@ This website serves as a digital portfolio and introduction to myself. It showca
 
 **Key Features:**
 
-* **About Me:** A section detailing my background and interests.
-* **Projects:** A display of my projects with the ability to toggle detailed descriptions.
-* **Contact:** Information on how to reach me.
-* **Dark Mode Toggle:** A user-friendly option to switch between light and dark themes.
-* **Responsive Design:** The website is designed to work across various screen sizes.
+ **About Me:** A section detailing my background and interests.
+ **Projects:** A display of my projects with the ability to toggle detailed descriptions.
+ **Contact:** Information on how to reach me.
+ **Dark Mode Toggle:** A user-friendly option to switch between light and dark themes.
+ **Responsive Design:** The website is designed to work across various screen sizes.
 
 ## Technologies Used
 
-* **HTML:** For structuring the website's content.
-* **CSS:** For styling the website and creating a visually appealing layout.
-* **JavaScript:** For adding interactivity, such as toggling project details and dark mode.
+ **HTML:** For structuring the website's content.
+ **CSS:** For styling the website and creating a visually appealing layout.
+ **JavaScript:** For adding interactivity, such as toggling project details and dark mode.
 
 ## Getting Started
 
 To view this website locally:
 
-1.  Clone this repository to your local machine:
-    ```bash
-    git clone [repository URL]
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd [repository name]
-    ```
+1.  Clone this repository to your local machine.
+2.  Navigate to the project directory.
 3.  Open `index.html` in your web browser.
 
 ## GitHub Pages
@@ -46,11 +40,11 @@ This website is also hosted on GitHub Pages. You can view it live at:
 * Implement a contact form.
 * Improve the responsive design for mobile devices.
 * Add more dynamic javascript functionality.
-* Add a photo gallery.
+* Add a photo gallery
 
 ## Author
 
-[Your Name]
+Wade Antoine Namada
 
 ## Resources
 
