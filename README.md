@@ -32,7 +32,7 @@ To view this website locally:
 
 This website is also hosted on GitHub Pages. You can view it live at:
 
-[Your GitHub Pages URL]
+
 
 ## Future Improvements
 
