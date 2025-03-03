@@ -28,6 +28,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Example: Display an alert when the page loads
+    // Displays an alert when the page loads
     console.log("Website loaded!");
 });

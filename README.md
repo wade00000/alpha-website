@@ -28,10 +28,6 @@ To view this website locally:
 2.  Navigate to the project directory.
 3.  Open `index.html` in your web browser.
 
-## GitHub Pages
-
-This website is also hosted on GitHub Pages. You can view it live at:
-
 
 ## Future Improvements
 
