@@ -33,7 +33,6 @@ To view this website locally:
 This website is also hosted on GitHub Pages. You can view it live at:
 
 
-
 ## Future Improvements
 
 * Add more projects to the portfolio section.
